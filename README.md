@@ -6,4 +6,4 @@ Curso impartido por HEKTOR PROFE puedes encontrarlo en [Udemy](https://www.udemy
 Git del profesor: [[click aquí](https://github.com/hcosta)]<br>
 Página del profesor: [[click aquí](https://www.hektorprofe.net/)]
 
-Las notas estan en la Wiki de este proyecto
+Las notas estan en la [Wiki](https://github.com/mglacayo07/DjangoNotes/wiki) de este proyecto
