@@ -10,5 +10,6 @@ Página del profesor: [click aquí](https://www.hektorprofe.net/)
 
 ## Notas y proyectos personales del curso
 * Las notas estan en la [Wiki](https://github.com/mglacayo07/DjangoNotes/wiki) de este proyecto
-* Proyeto 1 [Web Personal](https://github.com/mglacayo07/webpersonal)
-* Proyeto 2 [Web Empresa](https://github.com/mglacayo07/webempresa)
+* Proyecto 1 [Web Personal](https://github.com/mglacayo07/webpersonal)
+* Proyecto 2 [Web Empresa](https://github.com/mglacayo07/webempresa)
+* Proyecto 3 [Web Playground](https://github.com/mglacayo07/webplayground)
